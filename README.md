@@ -1,6 +1,6 @@
 # Face Recognition and Crime Detection System
 
-A real-time face recognition system that detects and identifies individuals from CCTV/camera feeds and matches them against a criminal database. Built for law enforcement and security applications using AI/ML and computer vision.
+A real-time face recognition system that detects and identifies individuals from camera feeds and matches them against a criminal database. Built for law enforcement and security applications using ML and computer vision.
 
 **🎓 BCA Final Year Project** | **📅 Last Updated: December 29, 2025**
 
@@ -90,18 +90,6 @@ A real-time face recognition system that detects and identifies individuals from
 - ✅ **Profile Page** - User profile with role, email, and password change
 - ✅ **Enhanced Email Alerts** - Professional HTML emails with IST timestamps
 - ✅ **Improved Error Handling** - Robust fallbacks for failed API calls
-
-### Admin Accounts
-**Primary Admin** (for general use):
-- **Email**: admin@crimedetection.com
-- **Password**: admin123
-- **Role**: admin
-
-**Super Admin** (original account):
-- **Email**: sibirajkumar30@gmail.com
-- **Username**: sibirajkumar
-- **Role**: super_admin
-
 ### Known Technical Details
 - **Face Algorithm**: DeepFace with Facenet512 model (99.65% accuracy)
 - **Embedding Size**: 512-dimensional face embeddings
@@ -119,16 +107,7 @@ A real-time face recognition system that detects and identifies individuals from
 
 ## 🚀 Phase 2: Next Enhancements (OPTIONAL)
 
-### Priority 1: Real-Time Video Detection (30 mins)
-**Status**: Ready to implement
-**Impact**: HIGH - Most visually impressive for demo
-**Features**:
-- Live webcam feed with face detection overlay
-- Real-time criminal matching with bounding boxes
-- Confidence score display on video stream
-- Detection alerts with audio notification
-
-### Priority 2: Analytics Dashboard (1 hour)
+### Priority 1: Analytics Dashboard (1 hour)
 **Status**: Ready to implement
 **Impact**: HIGH - Demonstrates data analysis skills
 **Features**:
@@ -145,7 +124,7 @@ A real-time face recognition system that detects and identifies individuals from
 - Sort by multiple criteria
 - Quick filters for common queries
 
-### Priority 5: Map View of Detections (45 mins)
+### Priority 2: Map View of Detections (45 mins)
 **Status**: Ready to implement
 **Impact**: HIGH - Visual wow factor
 **Features**:
@@ -777,7 +756,6 @@ npm test
 ## 🤝 Contributing
 
 This is a BCA final year project. The next phase will implement:
-- Real-time video detection
 - Analytics dashboard with charts
 - Multi-face detection
 - Advanced search and filters
@@ -791,8 +769,8 @@ This project is for educational purposes (BCA Final Year Project).
 
 **BCA Final Year Student**
 - Project: Face Recognition and Crime Detection System
-- Institution: [Your College Name]
-- Year: 2025
+- Institution: St Joseph's University
+- Year: 2026
 - Contact: sibirajkumar30@gmail.com
 
 ## 🙏 Acknowledgments9, 2025  
