@@ -2,9 +2,9 @@
 
 A real-time face recognition system that detects and identifies individuals from camera feeds and matches them against a criminal database. Built for law enforcement and security applications using ML and computer vision.
 
-**🎓 BCA Final Year Project** | **📅 Last Updated: December 29, 2025**
+** BCA Final Year Project** | **📅 Last Updated: December 29, 2025**
 
-## 🎉 Project Highlights
+##  Project Highlights
 
 - **99.65% Face Recognition Accuracy** with DeepFace Facenet512
 - **Multi-Photo Support** - 2-3+ photos per criminal for better matching
@@ -135,7 +135,7 @@ A real-time face recognition system that detects and identifies individuals from
 
 **Total Estimated Time**: ~3.5 hours
 
-## 🎯 Current Features
+##  Current Features
 
 ### Core Features
 - **Face Detection** - Detects multiple faces in uploaded images and videos
@@ -219,7 +219,7 @@ A real-time face recognition system that detects and identifies individuals from
 - Gmail account for email alerts (optional but recommended)
 - Visual Studio Code (recommended IDE)
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### First Time Setup
 
@@ -650,7 +650,7 @@ npm test
 - users → criminals.added_by (Foreign Key)
 - users → detection_logs.detected_by (Foreign Key)
 
-## 🎯 Project Achievements
+##  Project Achievements
 
 ### Technical Implementation
 - ✅ Full-stack application with REST API architecture
@@ -773,7 +773,7 @@ This project is for educational purposes (BCA Final Year Project).
 - Year: 2026
 - Contact: sibirajkumar30@gmail.com
 
-## 🙏 Acknowledgments9, 2025  
+##  Acknowledgments9, 2025  
 **Current State**: All phases fully functional with latest enhancements  
 **Accuracy**: 99.65% model accuracy, 95%+ real-world accuracy with multi-photo ensemble matching  
 **Alert Threshold**: 70% confidence for email alerts, 80% for SMS (optional)
